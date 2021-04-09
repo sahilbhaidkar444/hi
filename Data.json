@@ -1,0 +1,21 @@
+{
+  "categories":[
+      {
+        "name": "movies",
+        "videos" : [
+          {
+            "description": "Future Dairy Episode 01",
+            "sources":[
+              "https://streamtape.com/v/rby0GwKjQOIbqRb/Future_Diary_E01.mkv.mp4",
+            ],
+            "subtitle":"By Sahil Bhaidkar",
+            "thumb":"https://streamtape.com/v/xeJx6Vrbd1cQ6A/Thumb_Future_Diary_E01.mkv.mp4.jpg",
+            "title":"Signup"
+          }
+          ]
+      }
+    ]
+}
+
+            
+        
